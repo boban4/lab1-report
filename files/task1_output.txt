@@ -1,0 +1,28 @@
+Вывод: --2026-03-04 10:20:39--  https://sourceforge.net/projects/boost/files/boost/1.90.0/boost_1_90_0.tar.gz
+Resolving sourceforge.net (sourceforge.net)... 104.18.12.149, 104.18.13.149, 2606:4700::6812:c95, ...
+Connecting to sourceforge.net (sourceforge.net)|104.18.12.149|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sourceforge.net/projects/boost/files/boost/1.90.0/boost_1_90_0.tar.gz/ [following]
+--2026-03-04 10:20:40--  https://sourceforge.net/projects/boost/files/boost/1.90.0/boost_1_90_0.tar.gz/
+Reusing existing connection to sourceforge.net:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sourceforge.net/projects/boost/files/boost/1.90.0/boost_1_90_0.tar.gz/download [following]
+--2026-03-04 10:20:41--  https://sourceforge.net/projects/boost/files/boost/1.90.0/boost_1_90_0.tar.gz/download
+Reusing existing connection to sourceforge.net:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://downloads.sourceforge.net/project/boost/boost/1.90.0/boost_1_90_0.tar.gz?ts=gAAAAABpqFu0Iwwyko-eT1GxP3ysl0OUZmoChXNDRq9bwyHg91_Vn_sKaJXjcMmjWOtowrVAC2QtuOzBkV>
+--2026-03-04 10:20:41--  https://downloads.sourceforge.net/project/boost/boost/1.90.0/boost_1_90_0.tar.gz?ts=gAAAAABpqFu0Iwwyko-eT1GxP3ysl0OUZmoChXNDRq9bwyHg91_Vn_sKaJXjcMmjWOt>
+Resolving downloads.sourceforge.net (downloads.sourceforge.net)... 104.18.12.149, 104.18.13.149, 2606:4700::6812:d95, ...
+Connecting to downloads.sourceforge.net (downloads.sourceforge.net)|104.18.12.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://deac-fra.dl.sourceforge.net/project/boost/boost/1.90.0/boost_1_90_0.tar.gz?viasf=1 [following]
+--2026-03-04 10:20:42--  https://deac-fra.dl.sourceforge.net/project/boost/boost/1.90.0/boost_1_90_0.tar.gz?viasf=1
+Resolving deac-fra.dl.sourceforge.net (deac-fra.dl.sourceforge.net)... 37.203.33.33
+Connecting to deac-fra.dl.sourceforge.net (deac-fra.dl.sourceforge.net)|37.203.33.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210975925 (201M) [application/x-gzip]
+Saving to: ‘boost_1_90_0.tar.gz.1’
+
+boost_1_90_0.tar.gz.1                        100%[===========================================================================================>] 201.20M  4.25MB/s    in 76s     
+
+2026-03-04 10:22:00 (2.64 MB/s) - ‘boost_1_90_0.tar.gz.1’ saved [210975925/210975925]
